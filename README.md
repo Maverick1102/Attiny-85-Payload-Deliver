@@ -4,8 +4,9 @@ This meant to mimic devices like Rubber Ducky, Bash Bunny but lacks massively in
 
 ***USER DISCLAIMER***
 
-**This is meant to be used as knowledge purposes only. The demo given is totally harmless given followed the given instructions. Any extensions or modifications from the demonstration is solely the individuals responsilibilty. Im not responsibl for any of your actions.**
+**This is meant to be used as knowledge purposes only. The demo given is totally harmless given followed the given instructions. Any extensions or modifications from the demonstration is solely the individuals responsilibilty. Im not responsible for any of your actions.**
 
 **Requirements**
 1. [Digispark's Attiny85](https://my.cytron.io/p-digispark-attiny85-usb-a-arduino-compatible?r=1)
 2. [Arduino Software](https://www.arduino.cc/en/software)
+

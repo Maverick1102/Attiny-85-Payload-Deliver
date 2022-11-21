@@ -11,6 +11,12 @@ This IC is meant to mimic devices like Rubber Ducky, Bash Bunny but lacks massiv
 2. [Arduino Software](https://www.arduino.cc/en/software)
 
 **Steps**
-1) Program your Attiny85 to so that code can be uploaded into the device. You can follow the tutorial in from this [video](https://www.youtube.com/watch?v=MmDBvgrYGZs).
-2) Upload the code onto the IC. 
-3) Once you've uploaded the code you can start having fun by pranking some friends. Remember, dont use this knowledge for ill purposes.
+1) Program your Attiny85 to so that code can be uploaded into the device. You can follow the tutorial from this [video](https://www.youtube.com/watch?v=MmDBvgrYGZs) .
+2) Upload the code onto the IC. The IC should light up once the code is uploaded (can be deactivated in code).
+3) Given the code is uploaded and all is good, once the IC is plugged in and payload is successful the IC will glow red and yellow.
+4) Now, you can start having fun by pranking some friends. Remember, dont use this knowledge for ill purposes.
+
+
+**Demo**
+This is a small demo of the process : 
+! [](attinygif. gif)

